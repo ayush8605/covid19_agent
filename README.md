@@ -19,5 +19,4 @@ g) Note: Please make sure to use the word "since last" when quering for stats si
 h) Folder Structure: 
                     -- The folder name "dr" contains the desktop application
                     -- The folder named "DialogFlow fulfillment" contains the javascript source code for the fulfilment webhook deployed on firebase
-                    -- The file name Demo Video is a 3:20 min video demonstrating the cpabilities of the application
                     -- The Zip file named "DrStats_Covid" contains the dialogflow conversation agent. It can be used to restore the agent on any other account. 
